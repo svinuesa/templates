@@ -560,7 +560,6 @@
                     </td>
                     <td class="borderOff">&nbsp;</td>
                 </tr>
-                </apex:outputPanel>
                 <tr>
                     <td class="borderOff">&nbsp;</td>
                     <td>{!$ObjectType.sofactoapp__Coordonnees_bancaires__c.Fields.sofactoapp__RIB__c.Label}</td>
